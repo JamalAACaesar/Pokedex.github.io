@@ -1,7 +1,6 @@
 <!--
   This is the HTML for the PokeDex Assignment
 -->
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -9,7 +8,6 @@
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="style.css">
-  <script src=https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js></script>
   <title>Pokedex</title>
 </head>
 <body>
@@ -42,8 +40,8 @@
                     <span class="poke-type-one"></span>
                     <span class="poke-type-two"></span>
                   </div>
-                  <div class="screen__stats">            
-                    <p class="stats__weight" style="margin-top: 20px;">
+                  <div class="screen__stats" style="margin-top: 20px;">            
+                    <p class="stats__weight" >
                       weight: <span class="poke-weight"></span>
                     </p>
                     <p class="stats__height">

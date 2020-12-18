@@ -250,7 +250,6 @@
       -ms-flex-direction: column;
           flex-direction: column;
   height: 100%;
-  width: 50%;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;

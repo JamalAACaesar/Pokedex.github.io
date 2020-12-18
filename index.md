@@ -19,8 +19,7 @@
           <div class="top-section__red"></div>
           <div class="top-section__yellow"></div>
           <div class="top-section__green"></div>
-           <h1>Pokedex</h1>
-        </div>
+          </div>
       </div>
       <div class="left-container__main-section-container">
         <div class="left-container__main-section">
@@ -40,7 +39,7 @@
                     <span class="poke-type-one"></span>
                     <span class="poke-type-two"></span>
                   </div>
-                  <div class="screen__stats" style="margin-top: 10px;">            
+                  <div class="screen__stats" style="margin-top: 10px; margin-left: 10px;">            
                     <p class="stats__weight" >
                       weight: <span class="poke-weight"></span>
                     </p>
